@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/62461/m/mongodb-compass-logo.png?v=1663508519" width="200" alt="MongoDB Compass macOS application icon"><br>
- <a href="https://onanizm-apps-software.github.io/.github/MongoDBCompass">
+ <img src="https://www.tutorialsteacher.com/images/mongodb.svg" width="200" alt="MongoDB Compass macOS application icon"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/MongoDBCompass">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open MongoDB Compass macOS page">
  </a><br><br>
  <div align="center">
